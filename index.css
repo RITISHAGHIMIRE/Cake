@@ -82,7 +82,7 @@ body {
 }
 
 .container {
-    background-image: url(../IMAGE/hey.jpg);
+    background-image: url(./hey.jpg);
     height: 500px;
     width: 100%;
     display: flex;
